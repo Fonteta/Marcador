@@ -1,0 +1,73 @@
+body {
+  background-color: #333333;
+}
+
+.BotonRojo {
+  background-color: red;
+  color: white;
+  border: 2px black solid;
+  position: fixed;
+  width: 800px;
+  height: 500px;
+  top: 100px;
+  left: 100px;
+  font-family: Arial;
+  font-size: 300px;
+  border-radius: 50;
+}
+
+.BotonAzul {
+  background-color: blue;
+  color: white;
+  border: 2px black solid;
+  position: fixed;
+  width: 800px;
+  height: 500px;
+  top: 1000px;
+  left: 100px;
+  font-family: Arial;
+  font-size: 300px;
+  border-radius: 50;
+}
+
+.AtrasAzul {
+  background-color: blue;
+  color: white;
+  border: 2px black solid;
+  position: fixed;
+  width: 250px;
+  height: 300px;
+  top: 650px;
+  left: 650px;
+  font-family: Arial;
+  font-size: 200px;
+  border-radius: 50;
+}
+
+.AtrasRojo {
+  background-color: red;
+  color: white;
+  border: 2px black solid;
+  position: fixed;
+  width: 250px;
+  height: 300px;
+  top: 650px;
+  left: 100px;
+  font-family: Arial;
+  font-size: 200px;
+  border-radius: 50;
+}
+
+.SaqueAlterno {
+  background-color: yellow;
+  color: black;
+  border: 2px black solid;
+  position: fixed;
+  width: 250px;
+  height: 300px;
+  top: 650px;
+  left: 375px;
+  font-family: Arial;
+  font-size: 200px;
+  border-radius: 50;
+}

@@ -1,0 +1,51 @@
+body {
+  background-color: #333333;
+}
+
+button{
+  position: absolute;
+}
+
+#PRojo{
+  background-color: red;
+  width: 98%;
+  height: 39%;
+  font-family: Arial;
+  font-size: 300px;
+  color: white;
+}
+
+#PAzul{
+  background-color: blue;
+  border: 2px solid black;
+  width: 98%;
+  height: 39%;
+  top: 60.5%;
+  font-family: Arial;
+  font-size: 300px;
+  color: white;
+}
+
+#Anterior{
+    background-color: yellow;
+    border: 2px solid black;
+    width: 49%;
+    height: 20%;
+    left: 50%;
+    top: 40%;
+    font-family: Arial;
+    font-size: 150px;
+    color: black;
+}
+
+
+#Saque{
+  background-color: #ffae00;
+  border: 2px solid black;
+  width: 49%;
+  height: 20%;
+  top: 40%;
+  font-family: Arial;
+  font-size: 300px;
+  color: black;
+}
